@@ -1,0 +1,7 @@
+.Error404 {
+  text-align: center;
+  min-height: calc(100vh - 10rem);
+  background: url('../../images/homepage-bg.svg') no-repeat;
+  background-size: cover;
+  background-position: center top;
+}
